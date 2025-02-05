@@ -1,6 +1,6 @@
 # Android Project 1 - *Wordle*
 
-Submitted by: Pooja Loganathan
+Submitted by: Hussnain Saleem
 
 Wordle is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html).
 
@@ -48,7 +48,7 @@ number of times and writing the function to check if the users inserted word is 
 
 ## License
 
-    Copyright [2024] [Pooja Loganathan]
+    Copyright [2024] [Hussnain Saleem]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
